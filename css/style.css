@@ -1,0 +1,124 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+
+.logo{
+    height: 80px;
+}
+.myMenuIcon{
+    font-size: 25px;
+    margin-left: 50px;
+    margin-right:30px;
+    color: black;
+
+}
+
+.myIconSize{
+    height: 24px;
+    width: 24px;
+    font-size: 20px;
+    margin-left: 20px;
+    color: black;
+
+}
+
+.myprofile{
+  height: 35px;
+  width:35px;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+
+.mySearch{
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+
+.myInput{
+    width: 370px !important;
+
+}
+
+.leftbar{
+    top:92px;
+    width:100px;
+    height:70vh;
+    text-align: center;
+
+}
+
+.leftbar p{
+    font-size: small;
+}
+
+.videoSec{
+    top:110px !important;
+    left:120px;
+}
+.videoCard{
+   width:270px;
+   float:left;
+   margin-right:10px;
+
+}
+.thevideo{
+    width: 100%;
+}
+
+.myh6{
+    margin-left:5px;
+    margin-right:5px;
+
+}
+.videoSec2{
+    top:110px !important;
+    left:150px !important;
+}
+.videoCard2{
+   width:900px;
+   float:left;
+   margin-right:10px;
+
+
+}
+.vid1{
+    width: 100%;
+    height:500px;
+}
+
+.rightbar{
+ 
+top:15%;
+right:15%;
+}
+
+.videoSec3{
+    top:110px !important;
+    left:5px !important;
+  
+}
+.videoCard3{
+   width:300px;
+   float:right;
+   margin-right:10px;
+   display: block !important;
+
+
+}
+.vid2{
+    width: 100%;
+    height:100px;
+ 
+}
+.vid3{
+    width: 100%;
+    height:100px;
+   /* top:50px !important; 
+    left:5px !important;  */
+}
+
+
